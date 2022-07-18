@@ -24,7 +24,7 @@ public class Josephus1158 {
                 if(i == K - 1) {
                     int num = list.remove();
                     if(list.size() == 0) {
-                        System.out.print(num);
+                        System.out.print(num + ">");
                     }
                     else {
                         System.out.print(num + ", ");
@@ -35,6 +35,5 @@ public class Josephus1158 {
                 }
             }
         }
-        System.out.print(">");
     }
 }
