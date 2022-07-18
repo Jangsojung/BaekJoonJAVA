@@ -9,7 +9,7 @@ import java.util.Stack;
 
 public class StackSequence1874 {
 
-	//BufferedWriter »ç¿ë½Ã Ãâ·Â ÃÊ°ú°¡ ¶ä -> StringBuilder »ç¿ë
+	//BufferedWriter ì‚¬ìš©ì‹œ ì¶œë ¥ ì´ˆê³¼ê°€ ëœ¸ -> StringBuilder ì‚¬ìš©
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
