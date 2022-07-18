@@ -8,7 +8,6 @@ import java.util.LinkedList;
 public class Josephus1158 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         LinkedList<Integer> list = new LinkedList<>();
 
         String str = br.readLine();
