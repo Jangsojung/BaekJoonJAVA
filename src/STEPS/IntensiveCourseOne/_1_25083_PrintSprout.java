@@ -1,6 +1,6 @@
 package STEPS.IntensiveCourseOne;
 
-public class PrintSprout {
+public class _1_25083_PrintSprout {
     public static void main(String[] args) {
         System.out.print("         ,r'\"7\n" +
                 "r`-_   ,'  ,/\n" +
